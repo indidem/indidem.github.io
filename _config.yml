@@ -1,0 +1,30 @@
+url: https://indidem.github.io
+baseurl: /
+
+# Site settings
+title: Indidem
+email: indidem@gmail.com
+description: "The indidem project aims to synthesise, digitise and publish almost half a century of family history research."
+
+# Team
+people:
+- name: Shirley
+  pic: 1
+  position: Emeritus Researcher Extraordinaire
+
+- name: Allison
+  pic: 2
+  position: Data analyst, editor & archivist
+
+- name: Jessica
+  pic: 3
+  position: Data analyst, web developer & archivist
+
+# Social
+social:
+  - title: github
+    url: http://github.com/indidem 
+
+# Build settings
+markdown: kramdown
+permalink: pretty
