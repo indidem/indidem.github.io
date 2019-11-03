@@ -2,9 +2,9 @@ url: https://indidem.github.io
 baseurl: /
 
 # Site settings
-title: Shirley Bongers' Family Tree
+title: Shirley Bongers' Family History
 email: indidem@gmail.com
-description: "The indidem project aims to synthesise, digitise and publish almost half a century of family history research."
+description: "This website provides access to Shirley Bongers' family history research."
 
 # Team
 people:
@@ -18,7 +18,7 @@ people:
 
 - name: Jessica
   pic: 3
-  position: Data analyst, web developer & archivist
+  position: Analyst, designer, developer & archivist
 
 # Social
 social:
