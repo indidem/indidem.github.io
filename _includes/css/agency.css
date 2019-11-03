@@ -729,7 +729,7 @@ footer {
 footer span.copyright {
     text-transform: uppercase;
     text-transform: none;
-    font-size: 15px;
+    font-size: 12px;
     font-family: {{ site.data.template.font.primary }};
     line-height: 40px;
 }
@@ -738,7 +738,7 @@ footer ul.quicklinks {
     margin-bottom: 0;
     text-transform: uppercase;
     text-transform: none;
-    font-size: 15x;
+    font-size: 12x;
     font-family: {{ site.data.template.font.primary }};
     line-height: 40px;
 }
