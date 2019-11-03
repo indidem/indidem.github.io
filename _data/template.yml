@@ -3,7 +3,7 @@ color:
   primary: 9be7cd3  # deep lilac
   secondary: dfbee9 # 25% lighter   
   secondary-dark: 3d2b43 # 2 steps from black
-  muted: d5d5d5 # silver
+  muted: 808080 # grey
 
 # Font Families
 font:
