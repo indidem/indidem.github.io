@@ -9,11 +9,11 @@ description: "This website provides access to Shirley Bongers' family history re
 # Team
 people:
 - name: Shirley
-  pic: 1
+  pic: team-1
   position: Emeritus Researcher Extraordinaire
 
 - name: Allison
-  pic: 2
+  pic: team-2
   position: Editor in Chief, analyst & archivist
 
 - name: Jessica
