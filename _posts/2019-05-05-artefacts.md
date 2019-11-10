@@ -2,7 +2,7 @@
 title: Records & artefacts
 subtitle: Visualising the relationships
 layout: default
-modal-id: 6
+modal-id: 5
 date: 2019-10-10
 img: artefacts.png
 thumbnail: artefacts-thumbnail.png
