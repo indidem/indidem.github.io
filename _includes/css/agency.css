@@ -732,7 +732,6 @@ footer {
 footer span.copyright {
     text-transform: uppercase;
     text-transform: none;
-    font-size: 12px;
     font-family: {{ site.data.template.font.primary }};
     line-height: 40px;
 }
