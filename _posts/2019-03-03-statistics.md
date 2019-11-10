@@ -2,7 +2,7 @@
 title: Statistics
 subtitle: Visualising the relationships
 layout: default
-modal-id: 4
+modal-id: 3
 date: 2019-10-10
 img: statistics.png
 thumbnail: statistics-thumbnail.png
