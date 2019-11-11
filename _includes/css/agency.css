@@ -793,7 +793,7 @@ ul.social-buttons li a:active {
 }
 
 .portfolio-modal .modal-content h3.subheading {
-    margin-bottom: 75px;
+    margin-bottom: 30px;
     text-transform: none;
     font-family: {{ site.data.template.font.secondary }};
     font-size: 16px;
