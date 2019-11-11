@@ -799,6 +799,7 @@ ul.social-buttons li a:active {
     font-size: 16px;
     font-style: italic;
     font-weight: 400;
+    color: #{{ site.data.template.color.muted }};
 }
 
 .portfolio-modal .modal-content p {
@@ -815,6 +816,7 @@ ul.social-buttons li a:active {
 .portfolio-modal .modal-content ul.list-inline {
     margin-top: 0;
     margin-bottom: 30px;
+    color: #{{ site.data.template.color.muted }};
 }
 
 .portfolio-modal .modal-content img {
