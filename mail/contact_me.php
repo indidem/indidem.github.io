@@ -16,7 +16,7 @@ $phone = $_POST['phone'];
 $message = $_POST['message'];
 
 // Create the email and send the message
-$to = 'indidem@gmail.com'; // Add your email address inbetween the '' replacing yourname@yourdomain.com - This is where the form will send a message to.
+$to = 'indidemproject@gmail.com'; // Add your email address inbetween the '' replacing yourname@yourdomain.com - This is where the form will send a message to.
 $email_subject = "Indidem Contact Form:  $name";
 $email_body = "New message from Indidem.\n\n"."Here are the details:\n\nName: $name\n\nEmail: $email_address\n\nPhone: $phone\n\nMessage:\n$message";
 $headers = "From: noreply@indidem.com\n"; // This is the email address the generated message will be from. We recommend using something like noreply@yourdomain.com.
